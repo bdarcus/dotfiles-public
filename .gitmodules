@@ -1,5 +1,5 @@
-[submodule "dotfiles/doom.d"]
-	path = dotfiles/doom.d
+[submodule "dotfiles/.doom.d"]
+	path = dotfiles/.doom.d
 	url = https://github.com/bdarcus/.doom.d.git
 	branch = master
 [submodule "dotfiles/powerlevel10k"]
